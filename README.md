@@ -13,6 +13,6 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Jayden-Boomer&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-![](https://komarev.com/ghpvc/?username=Jayden-Boomer)
+![](https://komarev.com/ghpvc/?username=jayden-boomer)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
