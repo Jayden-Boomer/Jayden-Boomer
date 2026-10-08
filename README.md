@@ -9,12 +9,6 @@
 ![](https://streak-stats.demolab.com/?user=Jayden-Boomer&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Jayden-Boomer&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Jayden-Boomer&theme=dark&no-frame=true&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Jayden-Boomer&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ---
 [![](https://komarev.com/ghpvc/?username=Jayden-Boomer&icon=0&color=12)](https://visitcount.itsvg.in)
 
