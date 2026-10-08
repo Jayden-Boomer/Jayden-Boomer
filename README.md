@@ -1,3 +1,6 @@
+# 💫 About Me:
+🔭 **I’m currently working on** AI-powered applications, developer tools, and projects that solve real-world problems.<br>👯 **I’m looking to collaborate on** robotics and other projects involving AI, machine learning, and innovative software solutions.<br>🌱 **I’m currently learning** advanced machine learning, AI integration, computer graphics, and software engineering best practices.<br>💬 **Ask me about** Robotics, C++, Java, VS Code extensions, and embedded systems development.<br>⚡ **Fun fact:** I enjoy turning everyday problems into software projects, from AI-powered navigation for visually impaired users to tools that improve developers' workflows.
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jaydenboomer) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jaboomer02@gmail.com) 
